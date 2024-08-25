@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\GundeGås\\YoutubeDuplicate\\YoutubeDuplicate.csproj": {}
+    "c:\\Users\\GundeGås\\Desktop\\SUVNET22\\YoutubeDuplicate\\YoutubeDuplicate.csproj": {}
   },
   "projects": {
-    "c:\\Users\\GundeGås\\YoutubeDuplicate\\YoutubeDuplicate.csproj": {
+    "c:\\Users\\GundeGås\\Desktop\\SUVNET22\\YoutubeDuplicate\\YoutubeDuplicate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\GundeGås\\YoutubeDuplicate\\YoutubeDuplicate.csproj",
+        "projectUniqueName": "c:\\Users\\GundeGås\\Desktop\\SUVNET22\\YoutubeDuplicate\\YoutubeDuplicate.csproj",
         "projectName": "YoutubeDuplicate",
-        "projectPath": "c:\\Users\\GundeGås\\YoutubeDuplicate\\YoutubeDuplicate.csproj",
+        "projectPath": "c:\\Users\\GundeGås\\Desktop\\SUVNET22\\YoutubeDuplicate\\YoutubeDuplicate.csproj",
         "packagesPath": "C:\\Users\\GundeGås\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\GundeGås\\YoutubeDuplicate\\obj\\",
+        "outputPath": "c:\\Users\\GundeGås\\Desktop\\SUVNET22\\YoutubeDuplicate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GundeGås\\AppData\\Roaming\\NuGet\\NuGet.Config",

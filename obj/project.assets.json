@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GundeGås\\YoutubeDuplicate\\YoutubeDuplicate.csproj",
+      "projectUniqueName": "c:\\Users\\GundeGås\\Desktop\\SUVNET22\\YoutubeDuplicate\\YoutubeDuplicate.csproj",
       "projectName": "YoutubeDuplicate",
-      "projectPath": "C:\\Users\\GundeGås\\YoutubeDuplicate\\YoutubeDuplicate.csproj",
+      "projectPath": "c:\\Users\\GundeGås\\Desktop\\SUVNET22\\YoutubeDuplicate\\YoutubeDuplicate.csproj",
       "packagesPath": "C:\\Users\\GundeGås\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GundeGås\\YoutubeDuplicate\\obj\\",
+      "outputPath": "c:\\Users\\GundeGås\\Desktop\\SUVNET22\\YoutubeDuplicate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GundeGås\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,32 +13,37 @@
         rel="stylesheet">
     <title>Document</title>
 </head>
+<header class="header">
+    <label class="hamburger-menu">
+        <input type="checkbox" />
+    </label>
+    <a href="#">
+        <img src="logo.png" alt="YouTube Logo" class="youtube-logo" />
+    </a>
+    <form class="search-bar">
+        <input class="search-input" type="search" placeholder="search" aria-label="Search" />
+        <!-- <button type="submit" class="search-btn"> -->
+        <img src="search-img.svg" alt="" />
+        </button>
+    </form>
+    <div class="menu-icons">
+        <a href="#">
+            <img src="upload.svg" alt="Upload video" />
+        </a>
+        <a href="#">
+            <img src="apps.svg" alt="Apps" />
+        </a>
+        <a href="#">
+            <img src="notifications.svg" alt="Notifications" />
+        </a>
+        <a href="#">
+            <img class="menu-channel-icon" src="http:///unsplash.it/36/36?gravity-center" alt="Your Channel" /> </a>
+    </div>
+
+</header>
 
 <body>
-    <header class="header">
-        <a href="#">
-            <img src="logo.png" alt="YouTube Logo" class="youtube-logo" />
-        </a>
-        <form class="search-bar">
-            <input class="search-input" type="search" placeholder="search" aria-label="Search" />
-            <button type="submit" class="search-btn">
-                <img src="search-img.svg" alt="" />
-            </button>
-        </form>
-        <div class="menu-icons">
-            <a href="#">
-                <img src="upload.svg" alt="Upload video" />
-            </a>
-            <a href="#">
-                <img src="apps.svg" alt="Apps" />
-            </a>
-            <a href="#">
-                <img src="notifications.svg" alt="Notifications" />
-            </a>
-            <a href="#">
-                <img class="menu-channel-icon" src="http:///unsplash.it/36/36?gravity-center" alt="Your Channel" /> </a>
-        </div>
-    </header>
+
     <div class="categories">
         <section class="category-section">
             <button class="category active">All</button>
@@ -50,7 +55,6 @@
             <button class="category">Category 6</button>
             <button class="category">Category 7</button>
             <button class="category">Category 8</button>
-            <button class="category">Category 9</button>
         </section>
     </div>
 
